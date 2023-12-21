@@ -3,10 +3,10 @@
 
 I'm thrilled to share the culmination of my internship journey at Oasis Infobyte — the development of an innovative "Calculator" system! 🌐🧮
 
-Project Overview:
+🔍Project Overview:
 Working with the brilliant minds at Oasis Infobyte, I had the incredible opportunity to design and implement a feature-rich calculator, pushing the boundaries of functionality and user experience.
 
-Key Features:
+🌟Key Features:
 Advanced Calculations, Intuitive User Interface & Multi-platform Compatibility.
 
 🛠️ Technologies Used: HTML/CSS: These fundamental languages are crucial for structuring and styling the content of the landing page.
